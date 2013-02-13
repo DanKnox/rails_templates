@@ -40,7 +40,7 @@ Application description will go here.
 MARKDOWN
 
 # Set up the default route
-route "root to: 'person#index'"
+route "root to: 'public#index'"
 
 # Create the Git repository
 git :init
